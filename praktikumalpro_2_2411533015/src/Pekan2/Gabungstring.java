@@ -3,6 +3,7 @@ package Pekan2;
 public class Gabungstring {
 
 	public static void main(String[] args) {
+		
 		System.out.println("hello" + 42);
 		System.out.println(1 + "abc" + 2);
 		System.out.println("abc" + 1 + 2);
